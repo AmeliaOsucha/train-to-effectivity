@@ -1,6 +1,6 @@
 ## train-to-effectivity
 # MY FULL CHAPTER: https://books.google.pl/books?id=x9QAEgAAQBAJ&newbks=0&lpg=PA99&dq=Analiza%20ilo%C5%9Bciowa%20wybranych%20problem%C3%B3w%20z%20zakresu%20ekonomii%20i%20finans%C3%B3w&hl=pl&pg=PA219#v=onepage&q&f=false 
-## Powyższe badanie naukowe było wygłoszone na konferencji Narzędzia Analityczne w Naukach Społecznych (NAWNE) w Maju 2026.
+## Założenia i wyniki niniejszego badania przedstawiono w maju 2026 roku podczas ogólnopolskiej konferencji Narzędzia Analityczne w Naukach Ekonomicznych (NAWNE)
 
 ### Ewaluacja efektywności przystanków osobowych w kontekście wdrożenia Podkarpackiej Kolei Aglomeracyjnej (PKA) / Evaluation of Passenger Stop Efficiency in the Context of the Subcarpathian Metropolitan Railway (PKA) Implementation
 
