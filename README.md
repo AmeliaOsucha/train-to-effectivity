@@ -1,4 +1,4 @@
-## train-to-effectivity
+## train-to-efficiency
 # MY FULL CHAPTER: https://books.google.pl/books?id=x9QAEgAAQBAJ&newbks=0&lpg=PA99&dq=Analiza%20ilo%C5%9Bciowa%20wybranych%20problem%C3%B3w%20z%20zakresu%20ekonomii%20i%20finans%C3%B3w&hl=pl&pg=PA219#v=onepage&q&f=false 
 ## Założenia i wyniki niniejszego badania przedstawiono w maju 2026 roku podczas ogólnopolskiej konferencji Narzędzia Analityczne w Naukach Ekonomicznych (NAWNE)
 
