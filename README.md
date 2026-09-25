@@ -20,7 +20,7 @@ Projekt badawczy poświęcony analizie zmian wskaźników efektywności i wymian
 
 ---
 
-## 🛠️ Wykorzystane narzędzia i pakiety / Tools and Packages Used
+## Wykorzystane narzędzia i pakiety / Tools and Packages Used
 * **Język R (R Language)**: obsługa struktur danych i modelowanie / *data structure handling and modeling* (`dplyr`, `stringr`, `ggplot2` itp.)
 * **Microsoft Excel**: wstępna agregacja danych, macierze i weryfikacja obliczeń / *initial data aggregation, matrices, and calculation verification*.
 * **Źródła danych (Data Sources)**: Urząd Transportu Kolejowego (UTK), Główny Urząd Statystyczny / Spis Powszechny (Statistics Poland / Census).
